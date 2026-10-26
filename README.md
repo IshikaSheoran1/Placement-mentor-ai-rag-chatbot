@@ -1,6 +1,6 @@
-# 🤖 Placement Mentor AI
+# 🤖  AI- Intelligence RAG Chatbot
 
-An AI-powered **Retrieval-Augmented Generation (RAG)** chatbot that allows users to upload placement-related PDF documents and ask natural language questions.
+An AI-powered **Retrieval-Augmented Generation (RAG)** chatbot that allows users to upload  PDF documents and ask natural language questions.
 
 Instead of searching manually through lengthy placement brochures, the chatbot retrieves the most relevant information using semantic search and generates accurate, document-grounded responses using Google's Gemini LLM.
 

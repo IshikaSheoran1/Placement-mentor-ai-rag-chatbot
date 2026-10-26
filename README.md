@@ -1,4 +1,4 @@
-# 🤖  AI- Intelligence RAG Chatbot
+# 🤖 Chatbot
 
 An AI-powered **Retrieval-Augmented Generation (RAG)** chatbot that allows users to upload  PDF documents and ask natural language questions.
 
